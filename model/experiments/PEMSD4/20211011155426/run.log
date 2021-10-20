@@ -1,0 +1,35 @@
+2021-10-11 15:54: Experiment log path in: C:\Users\Joris\Projects\AGCRN\model\experiments\PEMSD4\20211011155426
+2021-10-11 15:54: Train Epoch 1: 0/317 Loss: 209.325714
+2021-10-11 15:54: Train Epoch 1: 20/317 Loss: 192.213852
+2021-10-11 15:55: Train Epoch 1: 40/317 Loss: 198.378510
+2021-10-11 15:55: Train Epoch 1: 60/317 Loss: 194.360199
+2021-10-11 15:56: Train Epoch 1: 80/317 Loss: 171.165054
+2021-10-11 15:56: Train Epoch 1: 100/317 Loss: 227.495590
+2021-10-11 15:56: Train Epoch 1: 120/317 Loss: 218.125244
+2021-10-11 15:57: Train Epoch 1: 140/317 Loss: 160.357376
+2021-10-11 15:57: Train Epoch 1: 160/317 Loss: 189.866348
+2021-10-11 15:57: Train Epoch 1: 180/317 Loss: 185.771286
+2021-10-11 15:58: Train Epoch 1: 200/317 Loss: 198.018692
+2021-10-11 15:58: Train Epoch 1: 220/317 Loss: 158.774033
+2021-10-11 15:59: Train Epoch 1: 240/317 Loss: 159.035187
+2021-10-11 15:59: Train Epoch 1: 260/317 Loss: 148.384003
+2021-10-11 15:59: Train Epoch 1: 280/317 Loss: 202.754028
+2021-10-11 16:00: Train Epoch 1: 300/317 Loss: 172.507172
+2021-10-11 16:00: **********Train Epoch 1: averaged Loss: 179.651598, tf_ratio: 1.000000
+2021-10-11 16:01: **********Val Epoch 1: average Loss: 171.586584
+2021-10-11 16:01: *********************************Current best model saved!
+2021-10-11 16:01: Total training time: 6.9655min, best loss: 171.586584
+2021-10-11 16:01: Saving current best model to C:\Users\Joris\Projects\AGCRN\model\experiments\PEMSD4\20211011155426\best_model.pth
+2021-10-11 16:02: Horizon 01, MAE: 168.83, RMSE: 223.60, MAPE: 93.4682%
+2021-10-11 16:02: Horizon 02, MAE: 167.72, RMSE: 222.37, MAPE: 94.2590%
+2021-10-11 16:02: Horizon 03, MAE: 167.85, RMSE: 222.52, MAPE: 94.1566%
+2021-10-11 16:02: Horizon 04, MAE: 168.28, RMSE: 222.99, MAPE: 93.8562%
+2021-10-11 16:02: Horizon 05, MAE: 168.15, RMSE: 222.85, MAPE: 93.9500%
+2021-10-11 16:02: Horizon 06, MAE: 168.42, RMSE: 223.15, MAPE: 93.7671%
+2021-10-11 16:02: Horizon 07, MAE: 167.90, RMSE: 222.57, MAPE: 94.1521%
+2021-10-11 16:02: Horizon 08, MAE: 167.48, RMSE: 222.11, MAPE: 94.4545%
+2021-10-11 16:02: Horizon 09, MAE: 167.98, RMSE: 222.67, MAPE: 94.0832%
+2021-10-11 16:02: Horizon 10, MAE: 168.21, RMSE: 222.93, MAPE: 93.9238%
+2021-10-11 16:02: Horizon 11, MAE: 168.15, RMSE: 222.88, MAPE: 93.9669%
+2021-10-11 16:02: Horizon 12, MAE: 167.91, RMSE: 222.61, MAPE: 94.1462%
+2021-10-11 16:02: Average Horizon, MAE: 168.07, RMSE: 222.77, MAPE: 94.0153%
