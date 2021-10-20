@@ -1,0 +1,27 @@
+2021-10-20 09:12: Experiment log path in: /content/AGCRN/model/experiments/PEMSD4/20211020091203
+2021-10-20 09:12: Train Epoch 1: 0/158 Loss: 208.421188
+2021-10-20 09:12: Train Epoch 1: 20/158 Loss: 190.737823
+2021-10-20 09:12: Train Epoch 1: 40/158 Loss: 184.127762
+2021-10-20 09:12: Train Epoch 1: 60/158 Loss: 227.657272
+2021-10-20 09:12: Train Epoch 1: 80/158 Loss: 194.900482
+2021-10-20 09:13: Train Epoch 1: 100/158 Loss: 188.068710
+2021-10-20 09:13: Train Epoch 1: 120/158 Loss: 178.584457
+2021-10-20 09:13: Train Epoch 1: 140/158 Loss: 200.141190
+2021-10-20 09:13: **********Train Epoch 1: averaged Loss: 191.759135, tf_ratio: 1.000000
+2021-10-20 09:14: **********Val Epoch 1: average Loss: 192.307707
+2021-10-20 09:14: *********************************Current best model saved!
+2021-10-20 09:14: Total training time: 1.9859min, best loss: 192.307707
+2021-10-20 09:14: Saving current best model to /content/AGCRN/model/experiments/PEMSD4/20211020091203/best_model.pth
+2021-10-20 09:14: Horizon 01, MAE: 187.53, RMSE: 242.73, MAPE: 85.5854%
+2021-10-20 09:14: Horizon 02, MAE: 187.31, RMSE: 242.53, MAPE: 85.6074%
+2021-10-20 09:14: Horizon 03, MAE: 187.43, RMSE: 242.64, MAPE: 85.5905%
+2021-10-20 09:14: Horizon 04, MAE: 188.23, RMSE: 243.40, MAPE: 85.4993%
+2021-10-20 09:14: Horizon 05, MAE: 188.19, RMSE: 243.36, MAPE: 85.5040%
+2021-10-20 09:14: Horizon 06, MAE: 187.52, RMSE: 242.73, MAPE: 85.5896%
+2021-10-20 09:14: Horizon 07, MAE: 187.97, RMSE: 243.16, MAPE: 85.5340%
+2021-10-20 09:14: Horizon 08, MAE: 187.62, RMSE: 242.83, MAPE: 85.5722%
+2021-10-20 09:14: Horizon 09, MAE: 188.14, RMSE: 243.33, MAPE: 85.5063%
+2021-10-20 09:14: Horizon 10, MAE: 188.07, RMSE: 243.27, MAPE: 85.5151%
+2021-10-20 09:14: Horizon 11, MAE: 187.15, RMSE: 242.40, MAPE: 85.6310%
+2021-10-20 09:14: Horizon 12, MAE: 187.41, RMSE: 242.65, MAPE: 85.5929%
+2021-10-20 09:14: Average Horizon, MAE: 187.72, RMSE: 242.92, MAPE: 85.5606%
