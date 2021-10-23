@@ -1,0 +1,48 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="DuplicatedCode" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <Languages>
+        <language minSize="84" name="Python" />
+      </Languages>
+    </inspection_tool>
+    <inspection_tool class="LatexEscapeAmpersand" enabled="false" level="WARNING" enabled_by_default="false" />
+    <inspection_tool class="LatexLabelConvention" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="LatexLineBreak" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="LatexMightBreakTexify" enabled="false" level="ERROR" enabled_by_default="false" />
+    <inspection_tool class="PyMissingOrEmptyDocstringInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyMissingTypeHintsInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="2">
+            <item index="0" class="java.lang.String" itemvalue="geomet" />
+            <item index="1" class="java.lang.String" itemvalue="hypothesis" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8Inspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="E501" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyProtectedMemberInspection" enabled="false" level="WEAK WARNING" enabled_by_default="false" />
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="seaborn" />
+          <option value="app.main.module" />
+          <option value="decouple.config" />
+          <option value="object.items" />
+          <option value="object.execute" />
+          <option value="etl.loader.ExtractionDataFrames" />
+          <option value="dict.transform" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="SqlResolveInspection" enabled="false" level="ERROR" enabled_by_default="false" />
+  </profile>
+</component>
