@@ -1,0 +1,2 @@
+2021-10-20 09:13: **********Train Epoch 1: averaged Loss: 191.759135, tf_ratio: 1.000000
+2021-10-20 09:14: **********Val Epoch 1: average Loss: 192.307707

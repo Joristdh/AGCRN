@@ -1,0 +1,200 @@
+2021-10-22 11:53: **********Train Epoch 1: averaged Loss: 211.422204, tf_ratio: 1.000000
+2021-10-22 11:53: **********Val Epoch 1: average Loss: 197.157242
+2021-10-22 11:54: **********Train Epoch 2: averaged Loss: 181.018082, tf_ratio: 1.000000
+2021-10-22 11:54: **********Val Epoch 2: average Loss: 172.446523
+2021-10-22 11:55: **********Train Epoch 3: averaged Loss: 160.129022, tf_ratio: 1.000000
+2021-10-22 11:55: **********Val Epoch 3: average Loss: 154.932709
+2021-10-22 11:56: **********Train Epoch 4: averaged Loss: 145.600060, tf_ratio: 1.000000
+2021-10-22 11:57: **********Val Epoch 4: average Loss: 142.992466
+2021-10-22 11:58: **********Train Epoch 5: averaged Loss: 136.023595, tf_ratio: 1.000000
+2021-10-22 11:58: **********Val Epoch 5: average Loss: 135.260159
+2021-10-22 11:59: **********Train Epoch 6: averaged Loss: 129.890838, tf_ratio: 1.000000
+2021-10-22 11:59: **********Val Epoch 6: average Loss: 130.177743
+2021-10-22 12:00: **********Train Epoch 7: averaged Loss: 125.926854, tf_ratio: 1.000000
+2021-10-22 12:00: **********Val Epoch 7: average Loss: 126.859487
+2021-10-22 12:01: **********Train Epoch 8: averaged Loss: 123.471328, tf_ratio: 1.000000
+2021-10-22 12:01: **********Val Epoch 8: average Loss: 124.791061
+2021-10-22 12:02: **********Train Epoch 9: averaged Loss: 120.789745, tf_ratio: 1.000000
+2021-10-22 12:02: **********Val Epoch 9: average Loss: 116.657865
+2021-10-22 12:03: **********Train Epoch 10: averaged Loss: 92.471538, tf_ratio: 1.000000
+2021-10-22 12:03: **********Val Epoch 10: average Loss: 81.323518
+2021-10-22 12:04: **********Train Epoch 11: averaged Loss: 68.265523, tf_ratio: 1.000000
+2021-10-22 12:04: **********Val Epoch 11: average Loss: 64.248430
+2021-10-22 12:06: **********Train Epoch 12: averaged Loss: 56.381514, tf_ratio: 1.000000
+2021-10-22 12:06: **********Val Epoch 12: average Loss: 54.417138
+2021-10-22 12:07: **********Train Epoch 13: averaged Loss: 48.449046, tf_ratio: 1.000000
+2021-10-22 12:07: **********Val Epoch 13: average Loss: 47.499147
+2021-10-22 12:08: **********Train Epoch 14: averaged Loss: 42.516580, tf_ratio: 1.000000
+2021-10-22 12:08: **********Val Epoch 14: average Loss: 42.112700
+2021-10-22 12:09: **********Train Epoch 15: averaged Loss: 37.908710, tf_ratio: 1.000000
+2021-10-22 12:09: **********Val Epoch 15: average Loss: 37.845352
+2021-10-22 12:10: **********Train Epoch 16: averaged Loss: 34.571774, tf_ratio: 1.000000
+2021-10-22 12:10: **********Val Epoch 16: average Loss: 34.731035
+2021-10-22 12:11: **********Train Epoch 17: averaged Loss: 31.815660, tf_ratio: 1.000000
+2021-10-22 12:11: **********Val Epoch 17: average Loss: 32.228384
+2021-10-22 12:12: **********Train Epoch 18: averaged Loss: 29.720209, tf_ratio: 1.000000
+2021-10-22 12:12: **********Val Epoch 18: average Loss: 30.338336
+2021-10-22 12:13: **********Train Epoch 19: averaged Loss: 28.079854, tf_ratio: 1.000000
+2021-10-22 12:14: **********Val Epoch 19: average Loss: 28.562551
+2021-10-22 12:15: **********Train Epoch 20: averaged Loss: 26.764993, tf_ratio: 1.000000
+2021-10-22 12:15: **********Val Epoch 20: average Loss: 27.362078
+2021-10-22 12:16: **********Train Epoch 21: averaged Loss: 25.600111, tf_ratio: 1.000000
+2021-10-22 12:16: **********Val Epoch 21: average Loss: 26.064176
+2021-10-22 12:17: **********Train Epoch 22: averaged Loss: 24.587857, tf_ratio: 1.000000
+2021-10-22 12:17: **********Val Epoch 22: average Loss: 24.951624
+2021-10-22 12:18: **********Train Epoch 23: averaged Loss: 23.679319, tf_ratio: 1.000000
+2021-10-22 12:18: **********Val Epoch 23: average Loss: 24.177551
+2021-10-22 12:19: **********Train Epoch 24: averaged Loss: 22.900293, tf_ratio: 1.000000
+2021-10-22 12:19: **********Val Epoch 24: average Loss: 23.341776
+2021-10-22 12:20: **********Train Epoch 25: averaged Loss: 22.224633, tf_ratio: 1.000000
+2021-10-22 12:20: **********Val Epoch 25: average Loss: 22.520104
+2021-10-22 12:21: **********Train Epoch 26: averaged Loss: 21.689679, tf_ratio: 1.000000
+2021-10-22 12:22: **********Val Epoch 26: average Loss: 21.951553
+2021-10-22 12:23: **********Train Epoch 27: averaged Loss: 21.175188, tf_ratio: 1.000000
+2021-10-22 12:23: **********Val Epoch 27: average Loss: 21.585121
+2021-10-22 12:24: **********Train Epoch 28: averaged Loss: 20.729232, tf_ratio: 1.000000
+2021-10-22 12:24: **********Val Epoch 28: average Loss: 21.167808
+2021-10-22 12:25: **********Train Epoch 29: averaged Loss: 20.479566, tf_ratio: 1.000000
+2021-10-22 12:25: **********Val Epoch 29: average Loss: 20.744701
+2021-10-22 12:26: **********Train Epoch 30: averaged Loss: 20.096842, tf_ratio: 1.000000
+2021-10-22 12:26: **********Val Epoch 30: average Loss: 20.441510
+2021-10-22 12:27: **********Train Epoch 31: averaged Loss: 19.851044, tf_ratio: 1.000000
+2021-10-22 12:27: **********Val Epoch 31: average Loss: 20.157786
+2021-10-22 12:28: **********Train Epoch 32: averaged Loss: 19.603718, tf_ratio: 1.000000
+2021-10-22 12:28: **********Val Epoch 32: average Loss: 19.966127
+2021-10-22 12:29: **********Train Epoch 33: averaged Loss: 19.415558, tf_ratio: 1.000000
+2021-10-22 12:29: **********Val Epoch 33: average Loss: 20.042608
+2021-10-22 12:31: **********Train Epoch 34: averaged Loss: 19.244024, tf_ratio: 1.000000
+2021-10-22 12:31: **********Val Epoch 34: average Loss: 19.684198
+2021-10-22 12:32: **********Train Epoch 35: averaged Loss: 19.102526, tf_ratio: 1.000000
+2021-10-22 12:32: **********Val Epoch 35: average Loss: 19.429924
+2021-10-22 12:33: **********Train Epoch 36: averaged Loss: 18.951820, tf_ratio: 1.000000
+2021-10-22 12:33: **********Val Epoch 36: average Loss: 19.360018
+2021-10-22 12:34: **********Train Epoch 37: averaged Loss: 18.886332, tf_ratio: 1.000000
+2021-10-22 12:34: **********Val Epoch 37: average Loss: 19.202457
+2021-10-22 12:35: **********Train Epoch 38: averaged Loss: 18.726159, tf_ratio: 1.000000
+2021-10-22 12:35: **********Val Epoch 38: average Loss: 19.273160
+2021-10-22 12:36: **********Train Epoch 39: averaged Loss: 18.678059, tf_ratio: 1.000000
+2021-10-22 12:36: **********Val Epoch 39: average Loss: 18.977879
+2021-10-22 12:37: **********Train Epoch 40: averaged Loss: 18.509502, tf_ratio: 1.000000
+2021-10-22 12:37: **********Val Epoch 40: average Loss: 18.919197
+2021-10-22 12:38: **********Train Epoch 41: averaged Loss: 18.434313, tf_ratio: 1.000000
+2021-10-22 12:39: **********Val Epoch 41: average Loss: 18.929163
+2021-10-22 12:40: **********Train Epoch 42: averaged Loss: 18.389032, tf_ratio: 1.000000
+2021-10-22 12:40: **********Val Epoch 42: average Loss: 19.045757
+2021-10-22 12:41: **********Train Epoch 43: averaged Loss: 18.327357, tf_ratio: 1.000000
+2021-10-22 12:41: **********Val Epoch 43: average Loss: 18.693516
+2021-10-22 12:42: **********Train Epoch 44: averaged Loss: 18.263170, tf_ratio: 1.000000
+2021-10-22 12:42: **********Val Epoch 44: average Loss: 18.923599
+2021-10-22 12:43: **********Train Epoch 45: averaged Loss: 18.185781, tf_ratio: 1.000000
+2021-10-22 12:43: **********Val Epoch 45: average Loss: 18.600643
+2021-10-22 12:44: **********Train Epoch 46: averaged Loss: 18.145088, tf_ratio: 1.000000
+2021-10-22 12:44: **********Val Epoch 46: average Loss: 18.650197
+2021-10-22 12:45: **********Train Epoch 47: averaged Loss: 18.076382, tf_ratio: 1.000000
+2021-10-22 12:45: **********Val Epoch 47: average Loss: 18.611634
+2021-10-22 12:46: **********Train Epoch 48: averaged Loss: 17.991651, tf_ratio: 1.000000
+2021-10-22 12:46: **********Val Epoch 48: average Loss: 18.557317
+2021-10-22 12:48: **********Train Epoch 49: averaged Loss: 18.028719, tf_ratio: 1.000000
+2021-10-22 12:48: **********Val Epoch 49: average Loss: 18.475693
+2021-10-22 12:49: **********Train Epoch 50: averaged Loss: 17.948707, tf_ratio: 1.000000
+2021-10-22 12:49: **********Val Epoch 50: average Loss: 18.306314
+2021-10-22 12:50: **********Train Epoch 51: averaged Loss: 17.863080, tf_ratio: 1.000000
+2021-10-22 12:50: **********Val Epoch 51: average Loss: 18.304259
+2021-10-22 12:51: **********Train Epoch 52: averaged Loss: 17.882225, tf_ratio: 1.000000
+2021-10-22 12:51: **********Val Epoch 52: average Loss: 18.215396
+2021-10-22 12:52: **********Train Epoch 53: averaged Loss: 17.744756, tf_ratio: 1.000000
+2021-10-22 12:52: **********Val Epoch 53: average Loss: 18.407668
+2021-10-22 12:53: **********Train Epoch 54: averaged Loss: 17.726379, tf_ratio: 1.000000
+2021-10-22 12:53: **********Val Epoch 54: average Loss: 18.190140
+2021-10-22 12:54: **********Train Epoch 55: averaged Loss: 17.772694, tf_ratio: 1.000000
+2021-10-22 12:54: **********Val Epoch 55: average Loss: 18.376044
+2021-10-22 12:55: **********Train Epoch 56: averaged Loss: 17.711024, tf_ratio: 1.000000
+2021-10-22 12:56: **********Val Epoch 56: average Loss: 18.434190
+2021-10-22 12:57: **********Train Epoch 57: averaged Loss: 17.595445, tf_ratio: 1.000000
+2021-10-22 12:57: **********Val Epoch 57: average Loss: 18.107863
+2021-10-22 12:58: **********Train Epoch 58: averaged Loss: 17.578892, tf_ratio: 1.000000
+2021-10-22 12:58: **********Val Epoch 58: average Loss: 18.751365
+2021-10-22 12:59: **********Train Epoch 59: averaged Loss: 17.556777, tf_ratio: 1.000000
+2021-10-22 12:59: **********Val Epoch 59: average Loss: 18.642481
+2021-10-22 13:00: **********Train Epoch 60: averaged Loss: 17.501777, tf_ratio: 1.000000
+2021-10-22 13:00: **********Val Epoch 60: average Loss: 18.267620
+2021-10-22 13:01: **********Train Epoch 61: averaged Loss: 17.514429, tf_ratio: 1.000000
+2021-10-22 13:01: **********Val Epoch 61: average Loss: 18.222713
+2021-10-22 13:02: **********Train Epoch 62: averaged Loss: 17.511918, tf_ratio: 1.000000
+2021-10-22 13:02: **********Val Epoch 62: average Loss: 18.080776
+2021-10-22 13:03: **********Train Epoch 63: averaged Loss: 17.446025, tf_ratio: 1.000000
+2021-10-22 13:03: **********Val Epoch 63: average Loss: 17.933360
+2021-10-22 13:04: **********Train Epoch 64: averaged Loss: 17.452179, tf_ratio: 1.000000
+2021-10-22 13:05: **********Val Epoch 64: average Loss: 18.014795
+2021-10-22 13:06: **********Train Epoch 65: averaged Loss: 17.396605, tf_ratio: 1.000000
+2021-10-22 13:06: **********Val Epoch 65: average Loss: 18.085352
+2021-10-22 13:07: **********Train Epoch 66: averaged Loss: 17.315583, tf_ratio: 1.000000
+2021-10-22 13:07: **********Val Epoch 66: average Loss: 18.149542
+2021-10-22 13:08: **********Train Epoch 67: averaged Loss: 17.300159, tf_ratio: 1.000000
+2021-10-22 13:08: **********Val Epoch 67: average Loss: 18.032061
+2021-10-22 13:09: **********Train Epoch 68: averaged Loss: 17.262180, tf_ratio: 1.000000
+2021-10-22 13:09: **********Val Epoch 68: average Loss: 17.957946
+2021-10-22 13:10: **********Train Epoch 69: averaged Loss: 17.257481, tf_ratio: 1.000000
+2021-10-22 13:10: **********Val Epoch 69: average Loss: 17.917398
+2021-10-22 13:11: **********Train Epoch 70: averaged Loss: 17.251597, tf_ratio: 1.000000
+2021-10-22 13:11: **********Val Epoch 70: average Loss: 17.883387
+2021-10-22 13:12: **********Train Epoch 71: averaged Loss: 17.130722, tf_ratio: 1.000000
+2021-10-22 13:13: **********Val Epoch 71: average Loss: 17.761887
+2021-10-22 13:14: **********Train Epoch 72: averaged Loss: 17.162040, tf_ratio: 1.000000
+2021-10-22 13:14: **********Val Epoch 72: average Loss: 17.968539
+2021-10-22 13:15: **********Train Epoch 73: averaged Loss: 17.104343, tf_ratio: 1.000000
+2021-10-22 13:15: **********Val Epoch 73: average Loss: 17.798156
+2021-10-22 13:16: **********Train Epoch 74: averaged Loss: 17.136769, tf_ratio: 1.000000
+2021-10-22 13:16: **********Val Epoch 74: average Loss: 17.756084
+2021-10-22 13:17: **********Train Epoch 75: averaged Loss: 17.032093, tf_ratio: 1.000000
+2021-10-22 13:17: **********Val Epoch 75: average Loss: 17.806214
+2021-10-22 13:18: **********Train Epoch 76: averaged Loss: 17.036636, tf_ratio: 1.000000
+2021-10-22 13:18: **********Val Epoch 76: average Loss: 17.873753
+2021-10-22 13:19: **********Train Epoch 77: averaged Loss: 17.034370, tf_ratio: 1.000000
+2021-10-22 13:19: **********Val Epoch 77: average Loss: 17.999999
+2021-10-22 13:20: **********Train Epoch 78: averaged Loss: 16.991897, tf_ratio: 1.000000
+2021-10-22 13:20: **********Val Epoch 78: average Loss: 17.735865
+2021-10-22 13:21: **********Train Epoch 79: averaged Loss: 16.946487, tf_ratio: 1.000000
+2021-10-22 13:22: **********Val Epoch 79: average Loss: 17.751376
+2021-10-22 13:23: **********Train Epoch 80: averaged Loss: 16.961781, tf_ratio: 1.000000
+2021-10-22 13:23: **********Val Epoch 80: average Loss: 17.712083
+2021-10-22 13:24: **********Train Epoch 81: averaged Loss: 16.949075, tf_ratio: 1.000000
+2021-10-22 13:24: **********Val Epoch 81: average Loss: 17.759794
+2021-10-22 13:25: **********Train Epoch 82: averaged Loss: 16.888929, tf_ratio: 1.000000
+2021-10-22 13:25: **********Val Epoch 82: average Loss: 17.991580
+2021-10-22 13:26: **********Train Epoch 83: averaged Loss: 16.842446, tf_ratio: 1.000000
+2021-10-22 13:26: **********Val Epoch 83: average Loss: 17.683378
+2021-10-22 13:27: **********Train Epoch 84: averaged Loss: 16.825528, tf_ratio: 1.000000
+2021-10-22 13:27: **********Val Epoch 84: average Loss: 17.603691
+2021-10-22 13:28: **********Train Epoch 85: averaged Loss: 16.807898, tf_ratio: 1.000000
+2021-10-22 13:28: **********Val Epoch 85: average Loss: 17.625473
+2021-10-22 13:29: **********Train Epoch 86: averaged Loss: 16.775739, tf_ratio: 1.000000
+2021-10-22 13:30: **********Val Epoch 86: average Loss: 17.657108
+2021-10-22 13:31: **********Train Epoch 87: averaged Loss: 16.787875, tf_ratio: 1.000000
+2021-10-22 13:31: **********Val Epoch 87: average Loss: 17.626741
+2021-10-22 13:32: **********Train Epoch 88: averaged Loss: 16.734184, tf_ratio: 1.000000
+2021-10-22 13:32: **********Val Epoch 88: average Loss: 17.602412
+2021-10-22 13:33: **********Train Epoch 89: averaged Loss: 16.790071, tf_ratio: 1.000000
+2021-10-22 13:33: **********Val Epoch 89: average Loss: 17.665637
+2021-10-22 13:34: **********Train Epoch 90: averaged Loss: 16.753345, tf_ratio: 1.000000
+2021-10-22 13:34: **********Val Epoch 90: average Loss: 17.563314
+2021-10-22 13:35: **********Train Epoch 91: averaged Loss: 16.643213, tf_ratio: 1.000000
+2021-10-22 13:35: **********Val Epoch 91: average Loss: 17.527219
+2021-10-22 13:36: **********Train Epoch 92: averaged Loss: 16.694477, tf_ratio: 1.000000
+2021-10-22 13:36: **********Val Epoch 92: average Loss: 17.536104
+2021-10-22 13:37: **********Train Epoch 93: averaged Loss: 16.628735, tf_ratio: 1.000000
+2021-10-22 13:37: **********Val Epoch 93: average Loss: 17.733458
+2021-10-22 13:38: **********Train Epoch 94: averaged Loss: 16.621380, tf_ratio: 1.000000
+2021-10-22 13:39: **********Val Epoch 94: average Loss: 17.291612
+2021-10-22 13:40: **********Train Epoch 95: averaged Loss: 16.648700, tf_ratio: 1.000000
+2021-10-22 13:40: **********Val Epoch 95: average Loss: 17.682683
+2021-10-22 13:41: **********Train Epoch 96: averaged Loss: 16.587580, tf_ratio: 1.000000
+2021-10-22 13:41: **********Val Epoch 96: average Loss: 17.458815
+2021-10-22 13:42: **********Train Epoch 97: averaged Loss: 16.602411, tf_ratio: 1.000000
+2021-10-22 13:42: **********Val Epoch 97: average Loss: 17.703295
+2021-10-22 13:43: **********Train Epoch 98: averaged Loss: 16.628196, tf_ratio: 1.000000
+2021-10-22 13:43: **********Val Epoch 98: average Loss: 17.817981
+2021-10-22 13:44: **********Train Epoch 99: averaged Loss: 16.524975, tf_ratio: 1.000000
+2021-10-22 13:44: **********Val Epoch 99: average Loss: 17.422017
+2021-10-22 13:45: **********Train Epoch 100: averaged Loss: 16.488825, tf_ratio: 1.000000
+2021-10-22 13:45: **********Val Epoch 100: average Loss: 17.379711
