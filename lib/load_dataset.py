@@ -13,6 +13,10 @@ def load_st_dataset(dataset):
         data_path = os.path.join('../data/PeMSD4_julaug/pemsd4julaug.npy')
         with open(data_path, 'rb') as f:
             data = np.load(f)
+    elif dataset == 'PEMSD8JANFEB':
+        data_path = os.path.join('../data/PeMSD8_janfeb/pems8janfeb.npy')
+        with open(data_path, 'rb') as f:
+            data = np.load(f)
     else:
         raise ValueError
     if len(data.shape) == 2:
