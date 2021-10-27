@@ -23,7 +23,7 @@ def get_most_redundant_sensor(sensors):
 def delete_most_redundant_sensor_from_list(sensors):
     sensor = get_most_redundant_sensor(sensors)
     if sensor:
-        delete_most_redundant_sensor_from_list(np.delete(sensors, (np.searchsorted(sensors[:, 0], sensor)), 0))
+        return delete_most_redundant_sensor_from_list(np.delete(sensors, (np.searchsorted(sensors[:, 0], sensor)), 0))
     else:
         return sensors
 
