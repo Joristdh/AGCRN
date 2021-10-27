@@ -4,10 +4,10 @@ import numpy as np
 
 ids = np.load('RAW/sensor_ids.npy')
 file = np.load('RAW/distance_matrix.npy')
-file_with_id = np.c_[ids[:, 0], file]
+sensors = np.c_[ids[:, 0], file]
 
 
-def get_most_redundant_sensor(sensors):
+def get_most_redundant_sensor():
     print('Sensors remaining:', len(sensors))
     amount_of_short_distances_per_sensor = {}
     for a in sensors:
@@ -22,13 +22,12 @@ def get_most_redundant_sensor(sensors):
            max(amount_of_short_distances_per_sensor.items(), key=lambda k: k[1])[0]
 
 
-def delete_most_redundant_sensor_from_list(sensors):
-    sensor = get_most_redundant_sensor(sensors)
-    if sensor:
-        gc.collect()
-        return delete_most_redundant_sensor_from_list(np.delete(sensors, (np.searchsorted(sensors[:, 0], sensor)), 0))
-    else:
-        return sensors
+sensor = True
+while sensor:
+    print(gc.get_count())
+    sensors = np.delete(sensors, (np.searchsorted(sensors[:, 0], sensor)), 0)
+    sensor = get_most_redundant_sensor()
+    gc.collect()
+    print(gc.get_count())
 
-
-print(delete_most_redundant_sensor_from_list(file_with_id))
+print(sensors)
