@@ -30,4 +30,5 @@ while sensor:
     gc.collect()
     print(gc.get_count())
 
+print(len(sensors))
 print(sensors)
