@@ -48,7 +48,7 @@ args.add_argument('--mode', default=Mode, type=str)
 args.add_argument('--device', default=DEVICE, type=str, help='indices of GPUs')
 args.add_argument('--debug', default=DEBUG, type=eval)
 args.add_argument('--model', default=MODEL, type=str)
-args.add_argument('--cuda', default=True, type=bool)
+args.add_argument('--cuda', default=False, type=bool)
 #data
 args.add_argument('--val_ratio', default=config['data']['val_ratio'], type=float)
 args.add_argument('--test_ratio', default=config['data']['test_ratio'], type=float)
@@ -91,10 +91,7 @@ args.add_argument('--log_step', default=config['log']['log_step'], type=int)
 args.add_argument('--plot', default=config['log']['plot'], type=eval)
 args = args.parse_args()
 init_seed(args.seed)
-if torch.cuda.is_available():
-    torch.cuda.set_device(int(args.device[5]))
-else:
-    args.device = 'cpu'
+args.device = 'cpu'
 
 #init model
 model = Network(args)
