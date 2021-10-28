@@ -22,7 +22,7 @@ from lib.TrainInits import print_model_parameters
 Mode = 'Train'
 DEBUG = 'True'
 DATASET = 'PEMSD4'      #PEMSD4 or PEMSD8
-DEVICE = 'cuda:0'
+DEVICE = 'cpu'
 MODEL = 'AGCRN'
 
 #get configuration
@@ -146,7 +146,7 @@ trainer = Trainer(model, loss, optimizer, train_loader, val_loader, test_loader,
 if args.mode == 'train':
     trainer.train()
 elif args.mode == 'test':
-    model.load_state_dict(torch.load('../pre-trained/{}.pth'.format(args.dataset)))
+    model.load_state_dict(torch.load('../pre-trained/{}.pth'.format(args.dataset), map_location='cpu'))
     print("Load saved model")
     trainer.test(model, trainer.args, test_loader, scaler, trainer.logger)
 else:
