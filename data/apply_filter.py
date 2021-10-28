@@ -1,6 +1,6 @@
 import numpy as np
 
-dataset = np.load('RAW/pems4julaug_all.npy')
+dataset = np.load('PeMSD4_julaug/pems4julaug_all.npy')
 filters = np.load('Filtered/PeMSD4/sensors_to_keep.npy')
 ids = np.load('RAW/pemsd4_all_ids.npy')
 
@@ -10,5 +10,5 @@ for i in ids:
 
 filtered = np.delete(dataset, mask, 1)
 
-np.save('PeMSD4_julaug', filtered)
+np.save('PeMSD4_julaug/pems04julaug', filtered)
 print(filtered.shape)
