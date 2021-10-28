@@ -1,5 +1,7 @@
 import os
+
 import numpy as np
+
 
 def load_st_dataset(dataset):
     #output B, N, D
@@ -10,11 +12,11 @@ def load_st_dataset(dataset):
         data_path = os.path.join('../data/PeMSD8/pems08.npz')
         data = np.load(data_path)['data'][:, :, 0]  #onley the first dimension, traffic flow data
     elif dataset == 'PEMSD4JULAUG':
-        data_path = os.path.join('../data/PeMSD4_julaug/pemsd4julaug.npy')
+        data_path = os.path.join('../data/PeMSD4_julaug/pems04julaug.npy')
         with open(data_path, 'rb') as f:
             data = np.load(f)
     elif dataset == 'PEMSD8JANFEB':
-        data_path = os.path.join('../data/PeMSD8_janfeb/pems8janfeb.npy')
+        data_path = os.path.join('../data/PeMSD8_janfeb/pems08janfeb.npy')
         with open(data_path, 'rb') as f:
             data = np.load(f)
     else:
