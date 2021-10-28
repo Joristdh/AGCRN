@@ -20,13 +20,15 @@ def get_most_redundant_sensor():
             amount_of_short_distances_per_sensor[a[0]] = len(short_distances_per_sensor)
 
     print(datetime.now(), 'Adjacent sensors remaining:', len(amount_of_short_distances_per_sensor))
-    return not amount_of_short_distances_per_sensor or \
-           max(amount_of_short_distances_per_sensor.items(), key=lambda k: k[1])[0]
+    if len(amount_of_short_distances_per_sensor) > 0:
+        return max(amount_of_short_distances_per_sensor.items(), key=lambda k: k[1])[0]
+    else:
+        return False
 
 
 removed_sensors = []
 sensor = get_most_redundant_sensor()
-while sensor:
+while sensor and sensor > 0:
     nr = np.searchsorted(sensors[:, 0], sensor)
     print(datetime.now(), 'Deleting node:', int(sensor), 'at:', nr)
     try:
