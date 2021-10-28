@@ -14,6 +14,8 @@ def get_most_redundant_sensor():
 
         short_distances_per_sensor = []
         for x in a:
+            if 5.6 < x < 5.8:
+                print(x)
             if 5.6327 >= x > 0:  # 3.5 miles is 5.6327 km
                 short_distances_per_sensor.append(x)
         if len(short_distances_per_sensor) > 0:
