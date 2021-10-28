@@ -40,6 +40,6 @@ while sensor and sensor > 0:
         np.save('Filtered/remaining_sensors', sensors)
         np.save('Filtered/removed_sensors', removed_sensors)
 
-np.save('Filtered/sensors_to_keep', sensors)
+np.save('Filtered/sensors_to_keep', sensors[:, 0])
 np.save('Filtered/removed_sensors', removed_sensors)
 print(len(sensors))
