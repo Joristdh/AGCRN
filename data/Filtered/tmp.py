@@ -1,9 +1,9 @@
 import numpy as np
 
-kept = np.load('sensors_to_keep.npy')[:, 0]
+kept = np.load('PeMSD4/sensors_to_keep.npy')
 
-removed = np.load('removed_sensors.npy')
+removed = np.load('PeMSD4/removed_sensors.npy')
 
 print(kept, removed)
 
-np.save('sensors_to_keep.npy', kept)
+np.save('PeMSD4/sensors_to_keep.npy', kept)
