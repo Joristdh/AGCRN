@@ -44,9 +44,9 @@ while sensor and sensor > 0:
         sensor = get_most_redundant_sensor()
         gc.collect()
     except:
-        np.save('Filtered/remaining_sensors', sensors)
-        np.save('Filtered/removed_sensors', removed_sensors)
+        np.save('Filtered/PeMSD4/remaining_sensors', sensors)
+        np.save('Filtered/PeMSD4/removed_sensors', removed_sensors)
 
-np.save('Filtered/sensors_to_keep', sensors[:, 0])
-np.save('Filtered/removed_sensors', removed_sensors)
+np.save('Filtered/PeMSD4/sensors_to_keep', sensors[:, 0])
+np.save('Filtered/PeMSD4/removed_sensors', removed_sensors)
 print(len(sensors))
