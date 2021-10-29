@@ -6,6 +6,13 @@ import numpy as np
 ids = np.load('RAW/sensor_ids.npy')
 file = np.load('RAW/distance_matrix.npy')
 sensors = np.c_[ids[:, 0], file]
+clean = np.load('RAW/d04_sensors.npy').tolist()
+
+mask = []
+for i in ids:
+    mask.append(i[0] not in clean)
+
+sensors = np.delete(sensors, mask, 0)
 
 
 def get_most_redundant_sensor():
@@ -14,8 +21,6 @@ def get_most_redundant_sensor():
 
         short_distances_per_sensor = []
         for x in a:
-            if 5.6 < x < 5.8:
-                print(x)
             if 5.6327 >= x > 0:  # 3.5 miles is 5.6327 km
                 short_distances_per_sensor.append(x)
         if len(short_distances_per_sensor) > 0:
